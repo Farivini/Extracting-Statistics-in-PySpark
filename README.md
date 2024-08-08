@@ -1,7 +1,5 @@
 # Extracting-Statistics-in-PySpark
 
-Aqui está um exemplo de um README que você pode usar no GitHub para o seu projeto:
-
 ---
 
 # Análise Descritiva de Dados Financeiros com PySpark
